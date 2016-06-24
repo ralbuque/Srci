@@ -1,0 +1,239 @@
+Arquivo, Linha, Coluna, Vulnerabilidade, Descricao
+c:\srci\lexico.cpp, 24, 9, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\lexico.cpp, 73, 26, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 128, 26, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 152, 18, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 156, 18, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 213, 19, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 221, 20, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\lexico.cpp, 225, 28, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\lexico.cpp, 311, 20, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\lexico.cpp, 315, 28, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\lexico.cpp, 364, 23, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 424, 24, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 434, 12, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\lexico.cpp, 437, 19, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 443, 19, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 454, 26, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 460, 19, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 466, 19, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 477, 19, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 483, 19, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 489, 26, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 500, 19, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 506, 19, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 512, 26, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 553, 26, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 559, 26, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 570, 26, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 581, 19, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 587, 26, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 590, 30, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 604, 19, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 610, 19, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 616, 19, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 622, 19, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 625, 30, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 639, 26, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 650, 19, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 666, 19, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 672, 26, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 683, 19, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 689, 26, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 700, 19, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 726, 26, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 737, 19, Comparacao com valores fixos, Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+c:\srci\lexico.cpp, 795, 14, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\lexico.cpp, 842, 26, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\lexico.cpp, 867, 13, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\lexico.cpp, 885, 17, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\lexico.cpp, 886, 17, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\lexico.cpp, 887, 15, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\lexico.cpp, 982, 17, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\lexico.cpp, 983, 17, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\lexico.cpp, 984, 15, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 102, 16, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 193, 13, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 219, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 220, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 221, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 230, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 231, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 232, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 241, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 242, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 243, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 244, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 246, 22, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 255, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 256, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 257, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 258, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 259, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 260, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 261, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 266, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 267, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 268, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 269, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 270, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 271, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 280, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 281, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 282, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 283, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 285, 22, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 294, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 296, 22, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 297, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 308, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 309, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 310, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 319, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 320, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 321, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 322, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 327, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 328, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 329, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 330, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 339, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 340, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 349, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 350, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 351, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 352, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 353, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 354, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 359, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 360, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 361, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 362, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 363, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 364, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 375, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 376, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 377, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 386, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 387, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 388, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 389, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 391, 22, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 396, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 397, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 398, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 400, 22, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 405, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 406, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 407, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 409, 22, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 414, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 415, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 416, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 417, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 419, 22, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 428, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 429, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 430, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 441, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 442, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 443, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 452, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 453, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 454, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 455, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 457, 22, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 462, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 463, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 464, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 466, 22, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 475, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 476, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 477, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 497, 20, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 500, 20, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 503, 20, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 508, 24, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 614, 36, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 667, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 668, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 669, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 767, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 768, 13, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 784, 26, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 788, 15, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 808, 25, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 809, 16, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 810, 16, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 814, 20, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 831, 15, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 849, 26, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 853, 15, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 873, 25, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 874, 16, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 875, 16, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 879, 20, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 896, 15, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 917, 25, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 918, 16, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 919, 16, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 923, 20, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 940, 15, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 960, 16, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 964, 25, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 965, 16, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 966, 16, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 970, 20, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 987, 15, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1008, 25, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1009, 16, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1010, 16, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1014, 20, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1031, 15, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1052, 25, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1053, 16, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1054, 16, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1058, 20, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1069, 15, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1102, 25, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1103, 16, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1104, 16, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1108, 20, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1140, 16, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1171, 13, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1241, 19, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1243, 18, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1246, 20, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1251, 19, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1257, 44, Retorno fixo de valores, Funcao esta retornando valores fixos, pode indicar codigo malicioso
+c:\srci\srcimain.cpp, 1263, 16, Retorno fixo de valores, Funcao esta retornando valores fixos, pode indicar codigo malicioso
+c:\srci\srcimain.cpp, 1366, 12, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1376, 12, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1387, 32, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1388, 28, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1396, 19, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1413, 31, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1414, 28, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1422, 19, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1470, 12, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1471, 12, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1476, 16, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1477, 16, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1478, 16, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1479, 16, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1480, 16, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1481, 16, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1482, 16, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1483, 16, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1484, 16, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1485, 16, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1486, 16, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1488, 14, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1509, 32, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1518, 14, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1520, 12, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1521, 12, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1522, 12, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1523, 12, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\srcimain.cpp, 1524, 12, Ausencia de teste de retorno de funcao, Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+c:\srci\teste.cpp, 9, 28, Concatenacao de Strings, Concatenacao de strings pode levar a SQL Injection

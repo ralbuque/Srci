@@ -1,0 +1,203 @@
+SRCI - Source Inspector
+(C) 2003,2004,2005 Sereno Sistemas Ltda
+Patente no INPI 00069204
+
+
+10/11/2006 16:20:51:796 Verificando arquivo C++ '.\lexico.cpp'
+
+Numero de linhas: 983
+Numero de linhas logicas: 483
+
+.\lexico.cpp, lin:24 col:9 - Ausencia de teste de retorno de funcao
+.\lexico.cpp, lin:65 col:26 - Comparacao com valores fixos
+.\lexico.cpp, lin:120 col:26 - Comparacao com valores fixos
+.\lexico.cpp, lin:144 col:18 - Comparacao com valores fixos
+.\lexico.cpp, lin:148 col:18 - Comparacao com valores fixos
+.\lexico.cpp, lin:205 col:19 - Comparacao com valores fixos
+.\lexico.cpp, lin:211 col:20 - Ausencia de teste de retorno de funcao
+.\lexico.cpp, lin:215 col:28 - Ausencia de teste de retorno de funcao
+.\lexico.cpp, lin:266 col:20 - Ausencia de teste de retorno de funcao
+.\lexico.cpp, lin:270 col:28 - Ausencia de teste de retorno de funcao
+.\lexico.cpp, lin:319 col:23 - Comparacao com valores fixos
+.\lexico.cpp, lin:379 col:24 - Comparacao com valores fixos
+.\lexico.cpp, lin:389 col:12 - Ausencia de teste de retorno de funcao
+.\lexico.cpp, lin:392 col:19 - Comparacao com valores fixos
+.\lexico.cpp, lin:398 col:19 - Comparacao com valores fixos
+.\lexico.cpp, lin:409 col:26 - Comparacao com valores fixos
+.\lexico.cpp, lin:415 col:19 - Comparacao com valores fixos
+.\lexico.cpp, lin:421 col:19 - Comparacao com valores fixos
+.\lexico.cpp, lin:432 col:19 - Comparacao com valores fixos
+.\lexico.cpp, lin:438 col:19 - Comparacao com valores fixos
+.\lexico.cpp, lin:444 col:26 - Comparacao com valores fixos
+.\lexico.cpp, lin:455 col:19 - Comparacao com valores fixos
+.\lexico.cpp, lin:461 col:19 - Comparacao com valores fixos
+.\lexico.cpp, lin:467 col:26 - Comparacao com valores fixos
+.\lexico.cpp, lin:508 col:26 - Comparacao com valores fixos
+.\lexico.cpp, lin:514 col:26 - Comparacao com valores fixos
+.\lexico.cpp, lin:525 col:26 - Comparacao com valores fixos
+.\lexico.cpp, lin:536 col:19 - Comparacao com valores fixos
+.\lexico.cpp, lin:542 col:26 - Comparacao com valores fixos
+.\lexico.cpp, lin:545 col:30 - Comparacao com valores fixos
+.\lexico.cpp, lin:559 col:19 - Comparacao com valores fixos
+.\lexico.cpp, lin:565 col:19 - Comparacao com valores fixos
+.\lexico.cpp, lin:571 col:19 - Comparacao com valores fixos
+.\lexico.cpp, lin:577 col:19 - Comparacao com valores fixos
+.\lexico.cpp, lin:580 col:30 - Comparacao com valores fixos
+.\lexico.cpp, lin:594 col:26 - Comparacao com valores fixos
+.\lexico.cpp, lin:605 col:19 - Comparacao com valores fixos
+.\lexico.cpp, lin:621 col:19 - Comparacao com valores fixos
+.\lexico.cpp, lin:627 col:26 - Comparacao com valores fixos
+.\lexico.cpp, lin:638 col:19 - Comparacao com valores fixos
+.\lexico.cpp, lin:644 col:26 - Comparacao com valores fixos
+.\lexico.cpp, lin:655 col:19 - Comparacao com valores fixos
+.\lexico.cpp, lin:681 col:26 - Comparacao com valores fixos
+.\lexico.cpp, lin:692 col:19 - Comparacao com valores fixos
+.\lexico.cpp, lin:750 col:14 - Ausencia de teste de retorno de funcao
+.\lexico.cpp, lin:797 col:26 - Ausencia de teste de retorno de funcao
+.\lexico.cpp, lin:822 col:13 - Ausencia de teste de retorno de funcao
+.\lexico.cpp, lin:840 col:17 - Ausencia de teste de retorno de funcao
+.\lexico.cpp, lin:841 col:17 - Ausencia de teste de retorno de funcao
+.\lexico.cpp, lin:842 col:15 - Ausencia de teste de retorno de funcao
+.\lexico.cpp, lin:937 col:17 - Ausencia de teste de retorno de funcao
+.\lexico.cpp, lin:938 col:17 - Ausencia de teste de retorno de funcao
+.\lexico.cpp, lin:939 col:15 - Ausencia de teste de retorno de funcao
+
+Ausencia de teste de retorno de funcao: Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+Comparacao com valores fixos: Condicoes com comparacao com valor fixo pode indicar codigo malicioso
+
+
+10/11/2006 16:20:51:906 Verificando arquivo C++ '.\srcimain.cpp'
+
+Numero de linhas: 1074
+Numero de linhas logicas: 500
+
+.\srcimain.cpp, lin:101 col:16 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:192 col:13 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:218 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:219 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:220 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:229 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:230 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:231 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:240 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:241 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:242 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:243 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:245 col:22 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:254 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:255 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:256 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:257 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:258 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:259 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:260 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:265 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:266 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:267 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:268 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:269 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:270 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:279 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:280 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:281 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:282 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:284 col:22 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:293 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:295 col:22 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:296 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:307 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:308 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:309 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:318 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:319 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:320 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:321 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:323 col:22 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:328 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:329 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:330 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:332 col:22 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:341 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:342 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:343 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:354 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:355 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:356 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:365 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:366 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:367 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:368 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:370 col:22 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:375 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:376 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:377 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:379 col:22 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:388 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:389 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:390 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:402 col:12 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:405 col:12 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:408 col:12 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:413 col:16 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:505 col:32 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:616 col:18 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:617 col:13 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:633 col:26 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:637 col:15 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:657 col:25 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:658 col:16 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:659 col:16 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:678 col:15 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:696 col:26 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:700 col:15 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:720 col:25 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:721 col:16 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:722 col:16 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:741 col:15 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:762 col:25 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:763 col:16 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:764 col:16 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:783 col:15 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:805 col:25 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:806 col:16 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:807 col:16 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:826 col:15 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:916 col:12 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:926 col:12 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:937 col:32 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:938 col:28 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:946 col:19 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:963 col:31 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:964 col:28 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:972 col:19 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:1016 col:12 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:1017 col:12 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:1022 col:16 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:1023 col:16 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:1024 col:16 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:1025 col:16 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:1026 col:16 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:1027 col:16 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:1028 col:16 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:1029 col:16 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:1030 col:16 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:1032 col:14 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:1053 col:32 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:1062 col:14 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:1064 col:12 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:1065 col:12 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:1066 col:12 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:1067 col:12 - Ausencia de teste de retorno de funcao
+.\srcimain.cpp, lin:1068 col:12 - Ausencia de teste de retorno de funcao
+
+Ausencia de teste de retorno de funcao: Falta de teste de retorno pode ocasionar ataques por comprometimento da camada subjacente
+
+
+10/11/2006 16:20:52:031 Encerrando execucao
+
+Numero total de arquivos inspecionadas: 2
+Numero total de linhas inspecionadas: 2057
+Numero total de linhas logicas inspecionadas: 983
+
+Numero total de possiveis vulnerabilidades encontradas: 171
+

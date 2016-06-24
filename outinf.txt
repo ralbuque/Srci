@@ -1,0 +1,4 @@
+Arquivo, Linguagem, HASH SHA-1, Linhas, Linhas logicas, Analisado em, Possiveis vulnerabilidades
+c:\srci\lexico.cpp, C++, DCAF7D38DA173527CAA1CA40189EA5F5288C1033, 1028, 508, 12/09/2011 10:11:48:558, 53
+c:\srci\srcimain.cpp, C++, 8B7C0876ACC7001863EE9EE92C259403FC97AD69, 1536, 730, 12/09/2011 10:11:48:871, 184
+c:\srci\teste.cpp, C++, 7C424C0BB5F8CBCF6968A12DB327A3E3A7B71FA8, 30, 4, 12/09/2011 10:11:49:262, 1
